@@ -61,7 +61,7 @@ Deploy your Flask app to Heroku.
 
 * You can use the provided sqlite file for the database.
 
-* Deploed to https://ib-bbuttondiv.herokuapp.com
+* Deployed to https://ib-bbuttondiv.herokuapp.com
 
 - - -
 
